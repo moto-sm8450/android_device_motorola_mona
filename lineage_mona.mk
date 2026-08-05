@@ -35,5 +35,5 @@ PRODUCT_GMS_CLIENTID_BASE := android-motorola
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     DeviceProduct="mona_g" \
-    BuildDesc="mona_g-user 16 W1VAS36.62-22-16-4 6f094-a1197 release-keys MW-292" \
-    BuildFingerprint="motorola/mona_g/mona:16/W1VAS36.62-22-16-4/6f094-a1197:user/release-keys"
+    BuildDesc="mona_g-user 16 W1VAS36.62-22-16-16 5d4b3-34456 release-keys MW-292" \
+    BuildFingerprint="motorola/mona/mona:15/VVA3S5V-W1-ST15.1/5d4b3:user/release-keys"
